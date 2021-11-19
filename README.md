@@ -1,3 +1,5 @@
-Estou gostando bastante do curso até o momento, aprendi bastante
-sobre softskills, recordei conceitos importantes de lógica de
-programação e estou revisando Git/GitHub.
+Estou gostando bastante do curso atÃ© o momento, aprendi bastante
+sobre softskills, recordei conceitos importantes de lÃ³gica de
+programaÃ§Ã£o e estou revisando Git/GitHub.
+
+Esta alteraÃ§Ã£o eu fiz diretamente no GitHub!
