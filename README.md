@@ -7,7 +7,7 @@ Esta alteração eu fiz diretamente no GitHub!
 
 Lista de comandos aprendidos:
 
-*git init
+* git init
 *git add
 *git reset
 *git commit -m ""
