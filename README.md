@@ -23,4 +23,6 @@ Lista de comandos aprendidos:
 * git checkout nome_branch_que_quero_ir
 * git merge nome_branch_que_quero_juntar_a_atual
 * git clone
-* git pull
+* git push --set-upstream origin <nome branch>
+  
+  Também aprendi a criar um Fork e enviar um Pull request.
